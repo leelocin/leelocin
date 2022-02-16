@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @leelocin
-- 👀 I’m interested in ... text stories, learning more
-- 🌱 I’m currently learning ... beg. data analytics, systems change management
-- 💞️ I’m looking to collaborate on ... stories, instruction in MBT and DBT
-- 📫 How to reach me ... here, or instagram @priorneear
+- 👋 Hi, I’m @priorneear
+- 👀 I’m interested in ... python, machine learning, NFTs
+- 🌱 I’m currently learning ... github obviously
+- 💞️ I’m looking to collaborate on ... rainbow web 3.0
+- 📫 How to reach me ... don't, i'll find you
 
 <!---
 leelocin/leelocin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
