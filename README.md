@@ -1,3 +1,4 @@
+- #Rainbow v.About Me
 - 👋 Hi, I’m @priorneear
 - 👀 I’m interested in ... python, machine learning, NFTs
 - 🌱 I’m currently learning ... github obviously
